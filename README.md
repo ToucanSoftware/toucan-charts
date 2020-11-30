@@ -1,2 +1,1 @@
-# toucan-charts
-Toucan Software Helm Charts Repository
+# Toucan Software Helm Charts Repository

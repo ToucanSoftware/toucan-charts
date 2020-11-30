@@ -3,6 +3,7 @@ apiVersion: autoscaling/v2beta1
 kind: HorizontalPodAutoscaler
 metadata:
   name: {{ include "spa-reloader.fullname" . }}
+  namespace: {{ .Values.spaNamespace }}
   labels:
     {{- include "spa-reloader.labels" . | nindent 4 }}
 spec:
