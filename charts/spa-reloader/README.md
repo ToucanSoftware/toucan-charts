@@ -1,3 +1,5 @@
+[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/toucan)](https://artifacthub.io/packages/search?repo=toucan)
+
 # Single Page Application Reloader Helm Chart
 
 ## Single Page Application Reloader
